@@ -1,0 +1,13 @@
+/* pages/list/list.wxss */
+@import '/pages/template/list-template.wxss';
+swiper{
+  height: 400rpx;
+  width: 100%
+}
+
+
+
+swiper image{
+  height: 100%;
+  width: 100%;
+}
